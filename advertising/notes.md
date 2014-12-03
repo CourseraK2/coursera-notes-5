@@ -437,4 +437,48 @@ Quote:
 “And I want you to think about the question of whether it is not the case that advertising is laying out a program for us of what our lives ought to be like in an idealized sense of telling us really how we should live our lives, what our aspirations should be, and how we should comport ourselves to fit the models of gender and the good life, according to the world of advertising.”
 
 ## Depictions of Gender in Mad Men
+* Read Paper on AdText
 
+# Does Sex Sell
+
+## Does Sex Sell
+* Advertising is very much about sex
+* Sexual imagery permeates modern advertising
+* But does it sell?
+* What kind of sex does advertising sell?
+* Normally it is heteronormativity
+
+### History
+* Earliest instances: Advertising Trade Cards for selling tobacco
+* Actual beginning: later in the 20th century: Woodbury’s Facial Soap (considered too risque for its time although it is very normal for our time)
+* Woodbury went on to use a lot of sexual imagery in their ads
+* Advertising did not only reflect the sexual mores, but also challenged and set new standards of sexual license and erotic propriety
+* Erotic imagery is a mainstay of modern advertising
+
+### But Does Sex Sell?
+* The Erotic History of Advertising by Tom Relchert
+  - Examines the evidence. Lot 
+  - He concludes that it frequently, but not always increased consumer interest
+  - Some brands like Calvin Klein and Victoria’s Secrets have succeeded in linking erotic appeal to commercial success.
+
+### What kind of sex does the ad actual sell
+* Normally it is heteronormativity, with the male in the dominant position, and the female in the passive position.
+* Frequently, focuses more on foreplay than actual sex
+* Sometimes there are non-traditional alternatives like multiple women, female dominant
+* Seldom see one woman with multiple males, or gay people
+* Abercrombie and Fitch use very suggestive ads that push the limits
+* Use of sexual imagery as metaphor As a literary genre, pornography is writing that has sexual arousement as its primary objective.
+* When is an add pornographic? Edmund Miller defines it: “Erotica, by contrast, is such material with an artistic pretension.  Thus, the descriptive term pornography implies a statement about intentionality and instrumentality.  Without reference to merit, whereas the term erotica is evaluative and laudatory.”
+* Jean Kilbourne’s criticism
+
+## Niche Marketing: Gay Consumers
+* Advertising has pushed the limits and managed to represent all kinds sexuality.
+* Niche Market: ”A special market segment with its own characterisitc profile that is large enough in size and affluent enough to warrant special consideration” - Gays, African Americans, Latinos
+* According to research, gay people tend to be affluent, better educated, hold professional positions and are in two-income and no-dependent situations (People have challenged this assumption)
+* It is unclear how many gay people are out there
+* Katherine Sender has done research on Gays and Advertising
+* Only since 1990s
+* Some negative stereotypes as well: Heiniken ad ”Male bonding incident”
+* Gay Vague Advertising: advertising could be read either way
+* Lesbians in Advertising: very rare. Advertising tends to assume that advertising for gay men stands in for all LGBT advertising
+* AdRespect collects ads targeted at LGBT communities
