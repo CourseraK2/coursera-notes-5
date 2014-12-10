@@ -180,7 +180,101 @@ MOOC on Open2Study.
   - Basic emotions common across all societies
   - How we express our emotions are very much determined by the societies around us.
 
-## Module 2:
+## Module 2: Inequality in the 21st Century: Local and Global Stratification
+
+### Topic 1: Class and Social Stratification
+* Good intro to the topic of class and social stratification: story of Romulus, My Father (also made into a movie)
+  - Family migrated to Australia
+  - Came to Australia, and were socially excluded
+  - We not well integrated
+  - Impacted access to resources, health, social status etc
+
+### Topic 2: Impact of Class on Health and Education
+* Not an agreed definition upon what class really is. There is a debate
+* Class is really about the structural inequalities in our society
+* Class can also be seen as a sub-culture of shared norms and values
+
+* How can class impact health?
+  - Lower class means lesser access to resources -> lower standard of health
+  - Even in places with welfare states, this class based division of health exists
+  - This is because the lower in the class heirarchy you are, the less you have access to means of leading a healthy life
+
+* Education
+  - Documentary: The One Percent
+  - The lower the class you are, the less likely you are to get a higher education
+
+### Topic 3: Social Exclusion: The Insider and Outsider
+* Are people purposely excluding themselves?
+* Film: Gattaca (social exclusion based on genetic makeup)
+* Branch Davidians
+* Jason Hage
+  - Concept of Insider and Outsider
+  - Different class positions, ethnicities and religion produce these divisions
+
+### Topic 4: The Question of Social Mobility
+* The idea of moving from one class position to another
+* Sometimes it is difficult to move from one class position to another, no matter how hard they work
+* Gentrification: Might signal that society is moving forward. But people are still stuck in their classes, they have just move forward
+* It is important for society to believe in social mobility: it is important to prevent social tension
+* 3 Types of Social Mobility
+  - Generation: Parents working class, children better educated, hence are middle class
+  - Structural: It's not about the individual. Large groups of people have gone up/down the class ladder. e.g. Global Financial Crisis
+  - Exchange: Interesting case between nation states.
+
+### Topic 5: How Can We Understand Class Sociologically 1: Marx
+* Time period of Marx: American, French and Industrial Revolution
+* Influenced by ideas of Enlightenment
+* Looked at class from the perspective of access to resources
+* Believed in the ideas of progress and rationality
+* Dividied society into two main classes:
+  - People who owned the means of production (Bourgeoisie)
+  - Everybody else - Proletariat
+* Capitalism, Nature of Work, Surplus Value
+* Base (Conditions of Production, Means of Production, Production Relation) , Superstructure: Everything else - education, religion
+* Marx understood this class system as Being dictated by the capitalist model
+* He argued that the world was going to witness “pauperization”, an increasing divide between the haves and the have-nots. The middle class is essentially going to disappear.
+
+### Topic 6: How Can We Understand Class Sociologically 1: Weber
+* Lived one generation after Marx
+* Weber argued that class needs to be looked at in a much more complex way
+* Three different ways to understand class
+  - Property: Individual's market position is very important. For e.g. if you are well educated and you are a manager in a firm, you have access to resources
+  - Prestige: Status is important. You can have your status position impact the ability to access certain resources: e.g. Old money vs. new money
+  - Power: The idea of how a group of people can come together and influence society
+### Topic 7: Why is Social Stratification Uniersal?
+* Ways to stratify society
+  - Caste System
+  - Slavery
+* Functionalists
+  - Davison Moore argued that . There are number of positions that need to be filled depending on the level of skills. So we are going to pay more money to people who occupy positions that are more important.
+  - This position has been criticised. There is no such thing as merit? Who decides what is more important?
+* False Consciousness: http://en.wikipedia.org/wiki/False_consciousness
+  - Working class not truly aware of their class position
+
+### Topic 8: Global Stratification
+* Historically this has been done by applying labels such as “First World”, "Third World" etc
+* Started to move to this idea of “Most industrialized”, "industrializing"
+* “Most Industrialized”: A superclass of people who hold most of the wealth
+* Brazil (Industrializing)
+  - Slums
+  - No proper access to health and education
+
+### Topic 9: Death of Class
+* Is class useful?
+* Pakulski and Waters - Five different aspects that's happening in the world, right now, that makes us question the idea of
+whether class as a concept is
+  - Process of social change: instead of class, we identify with the things we consume
+  - Property: People being able to buy stocks etc
+  - Consumer Power: Individuals consuming outside of class
+  - Process of Globalization
+  - Social and Political Implications: We are simply not identifying with classes. Class groups are crumbling
+
+### Topic 10: Changes in Understanding Class
+* The idea that we live in a world dominated by consumerism and entertainment
+* Zygmunt Bauman
+  - Consumerism etc counteracts, or diminishes, the ideas of counter-cultures, or any forms of revolt against the type of majority or dominant culture.
+  - individuals are being fed with ideas of individualism and status
+* Class needs to be reevaluated
 
 ## Module 3:
 
