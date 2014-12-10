@@ -482,3 +482,38 @@ Quote:
 * Gay Vague Advertising: advertising could be read either way
 * Lesbians in Advertising: very rare. Advertising tends to assume that advertising for gay men stands in for all LGBT advertising
 * AdRespect collects ads targeted at LGBT communities
+
+# What’s the Future of Advertising
+
+* Nobody is really clear about this
+* Advertisements are ephemeral by nature
+* Duke University has an archive of American advertising agencies. Smithsonian Institution as well.
+
+## Recent Innovations in Advertising
+* All Bran cereal in the toilet (”See you same time tomorrow”)
+* It is possible to put an advertisement on a postage stamp (zazzle.com)
+* Ads on the floor of the supermarkets, grocery carts.
+* Underground systems, top of train cars (Hair loss ad)
+* Overhead bins of RyanAir
+* Future seems to be the colonization of more and more such spaces.
+* Example: A woman who sold space on her forehead and tattooed an ad. Google glass.
+* References:
+  - http://library.duke.edu/rubenstein/hartman
+  - http://americanhistory.si.edu/archives
+
+
+## Exploration of Current Trends
+* The End of Advertising As We Know It by Sergio Zyman
+* The book predicted that advertising won’t be around for much long in it’s traditional form. In its place there will be Total Marketing Communications
+* TMC is about building a relationship with the consumer
+* Apple Store example
+* Dove Soap (Real Beauty campaign). Not a hard sell, but more of an invitation
+* Trendspotting: video at jwtintelligence.com
+* Crowdsourcing: moves the production process to the consumer
+* Native Advertising: advertising material is ‘naitive’ to the medium. e.g. Netflix ad for Orange is the New Black on an NYT article
+
+## The Future
+* Two major candidates in the 20th century for inventions that brought about major transformations in human societies:
+  - Contraception
+  - Information Technology
+
