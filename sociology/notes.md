@@ -276,6 +276,196 @@ whether class as a concept is
   - individuals are being fed with ideas of individualism and status
 * Class needs to be reevaluated
 
-## Module 3:
+## Module 3: Social Structures
 
-## Module 4:
+### Topic 1: Microstructure vs Macrostructure
+* How does our individual biographies and the social structures of our societies are intertwined together.
+* How does culture reside within the individual
+* We will look at it through two case studies: religion and health
+* Two broad ways that sociologists look at the social world in trying to make that understanding of how culture is within the individual:
+  - Macrosociological: media, education, more abstract
+  - Microsociological: interaction with peers, socialisation within family
+* How do structures guide our behaviors and put limits to our behavior
+* Another aspect – global structures
+
+### Topic 2: The Social Context of Health
+* 14th Century, Black Death Plague
+  - killed a third of the population
+  - during a time period when there was little understanding of how germs spread
+  - one particular ethnic group that survived it better than the other groups in the population - Jewish people
+  - They were more clean, they were washing themselves, buried their dead very quickly
+  - People from a higher class were less impacted than people from a lower class (due to living in less congested spaces)
+
+* Health goes beyond biological. It's hard to see that.
+  - Esp after completion of the THP (The Human Genome Project)
+
+* Response by individuals to such a kind of event is also interesting
+
+* Durkheim’s study of suicide
+  - It may seem that suicide can be explained psychologically or individualistically
+  - But it has a strong determination by the type of social structure the individual was embedded within. Suicide rates varied across groups and across countries.
+  - Three types of suicides
+    - Egoistic: when an individual was not integrated into the norms and values of society.
+    - Altruistic: (opp. of egoistic) when an individual is so embedded with the norms and values of a society that he is willing to give up his life for society. e.g. kamikaze pilots from WW-II
+    - Anomic: values and norms of society disintegrate
+
+* Global structures: life expectancies change according to countries. This is not biological, but due to social structures, healthcare systems etc.
+  - Life expectancies are broad indicators that might hide certain things. For e.g. Canada and Australia have high life expectancies but their indigenous populations have lower LE than remainder
+
+* Sociologists take a critical stance to the social world.
+
+### Topic 3: Health, Illness and Stigmatisation
+* How do symbolic interactionists approach health, wellness and deviancy
+
+* Three central tenets of symbolic interactionism:
+  - Humans act towards things on the basis of meaning those things posseess.
+  - meanings are not inherent in the object itself, but are produced by social interaction
+  - These meanings are modified through social interaction and interpretation
+
+* Meaning is something that is socially constructed. Society is something that is constructed through our interactions
+
+* Symbolic interactionism arose in response to dominance of functionalism.
+
+* SIs saw illness as a form of deviancy because of society’s interaction to those people. Functionalists saw illness as a form of deviancy because of the failure of the individual to perform their social role.
+
+* Erving Goffman
+  - Allowed us to understand the experience of those who are ill thorugh the concept of ‘stigmatisation’
+  - Three main areas
+    - When illness itself can be associated with a deviant type of behavior. e.g. AIDS
+    - When people find a particular illness frightening
+    - When somebody has an illness that does not fit in with our social expectations
+
+### Topic 4: Medicalisation
+* The expansion of aspects of our everyday life under medical dominion, e.g. ADHD, obesity, alcoholism, and even Grief
+
+* Not concerned with the biological aspects of an illness or condition, but instead look for patterns like is there an over-diagnosis going on, over-prescription etc
+
+* Medicalisation,is the expansion of the jurisdiction of medicine into our everyday life, taking normal or natural events and turning them into a medical issue or even at times a medical emergency, as we can see in the case of childbirth, pregnancy and childbirth.
+
+* Medicalisation of deviants is an important phenomenon.
+  - Conrad did work on this
+    - Absolve the individual of any kind of behavior
+    - Emphasise the therapeutic instead of the punitive, thus giving more power to the domain of medicine
+
+* Medical imperialism, it's not just about that. It is also about informed consumerism, which impacts on the idea of medicalisation, because then individuals and groups try to seek out a label for what is happening. A good example is alcoholism.
+
+* There is also a process of Demedicalisation, e.g. Homosexuality
+
+### Topic 5: Media and Health
+* Media is very influential about giving us messages about health and illness. It is important for us to analyze and unpack these messages.
+* Difference in the kind of responsibilities that one has when one is a patient vs when one is a consumer
+  - As a patient, there is a responsibility to listen to what the doctor says, and at the same time you are freed somewhat of having to pick and choose
+  - As a consumer, that responsibility shifts, and lays squarely on our shoulders
+
+* Expansion of power into pharmaceutical companies, which now have a lot of power situated in them due to consumerism
+
+
+### Topic 6: How do Sociologists Think about Religion
+
+* Post secularity: Religion going from the private sphere to the public sphere, where we find religions being more and more engaged with social issues
+
+* How do sociologists approach the field.  We don't approach religions and try to understand them theologically, meaning they're not interested in any truth claims, disproving or proving them.  Rather we're interested in how religion is distributed in society, and we're also interested in how social changes are impacting on religions as well.
+
+* It is difficult to define religion itself. One approach is a functional approach, what does religion do to a society or for an individual
+
+* Durkheim
+  - Religion = Form of Culture
+  - Religion = Ritualized Practices
+  - Religion = Sense of Purpose
+
+* What is missing from the above definition? God. That’s because not all religions equate to theism.
+
+### Topic 7: The Religious Landscape in Western Societies
+
+* The proclamation of the death of religion through modernity, reason, scientific and rational approach to knowledge, has not eventuated
+
+* Instead we tend to see today, is more of a religious revivalism as well as a proliferation of religions co-existing together in the same place, a sort of plurality of religion
+
+* Founding Fathers of Sociology, all believed in the decline of religion
+
+* Secularisation
+  - Can’t be understood in a vaccuum, but looking at say, just Europe
+  - In Europe there has indeed been a decline in religion
+  - But in NA and Canada, there is a lot of religious vibrancy, although Christianity is the dominant religion
+  - Other places in the world, for e.g. South America is a very religious continent.
+  - Looking around, instead of seeing the demise of religion we are seeing a resurgence, vitality, and a kind of plurality, meaning religions co-existing
+
+### Topic 8: Religion Through the Functionalist Lens
+
+* Both Marx and Durkheim approached defining religion through this functionalist way
+* Durkheim did more work on this
+* What are the functions of religion? What does it do for the individual, society?
+  - What is the meaning of life?
+  - Religion can be a source of inspiration and comfort
+  - Safe haven for insecurities and anxieties
+  - Social solidarity
+  - Guidelines for everyday life. Lots of researcher connect religion to health.
+  - Social control
+  - Adaptation - A way to adapt in a new environment
+
+* Dysfunction of religion
+  - Being used as a source of potential conflict
+
+* Durkheim did research on the indigenous religions of Australia, using secondary data
+
+* Durkheim divides relgion into the sacred and profane
+  - Sacred are those things that are set apart. They are the objects that we worship in society. E.h. a totem
+  - Profane are objects that are outside of that
+
+### Topic 9: Religion – Suppressor or Creator of Change
+
+* Marx was not a functionalist, he was more of a conflict theorist
+
+* Function of religion is going to be the maintenance of capitalism.
+
+* Religion is a way to justify the alienation and exploitation that the bulk of of the individuals were facing in this capitalist system.
+
+“Religion is the sigh of the oppressed creature, the heart of the heartless world, just as it is ithe spitit of a spiritless condition. It is the opium of the people. To abolish religion as the illusory happiness of the people is to demand their real happiness.” - Marx and Engels, 1975:38
+
+* It should be noted for Marx that what he saw as the eventual stripping away of religion, which would then allow individuals to see truly what was happening to them in terms of exploitation and alienation, was not how it was interpreted in terms of the aggressive dismantling of religion.  He never actually advocated for that.
+
+* Why did Marx see religion as a suppressor to social change.  Now, if you think about the way that he was defining religion and its function, labelling it as this opium of the people, you could see how he was positioning religion.  He was seeing that some of the central values, some of the central tenets of religion-- and here you can very much place this towards religions like Christianity, Judaism, and Islam.  You can see that he was saying the very idea that you can make a virtue out of suffering, that you can make a justification for social order through religion, also the idea of an eternal type of bliss makes the suffering of this life seem OK in a way.  Rather than concentrating on this life, many people that would identify with religion would be concentrating on the next life.  And it's for reasons such as this that Marx saw religion as that type of opiate, something that was going to dull us rather than motivate us for the types of social changes that he was speaking about.
+
+* Max Weber
+  - Approached religion from a substantive POV, i.e. defining it from below, i.e. defining religion from the perspective of those who were religious.
+  - He contradicted Marx’s work. Where Marx said religion stopped social change, Weber argued that religion created social change
+  - What was the cause of capitalism? Capitalism began in a place that was dominated by a particular form of Protestantism, Calvinism.
+  - In Calvinism, there was a strong idea of predestination. This creates a form of anxiety about how do you become "the chosen one".
+  - This in turn leads to the idea of a “vocation”. How well individuals were doing in their particular work could be a signifier what they were predestined for an afterlife.
+
+### Topic 10: The Future of Religion
+
+* Modernity, or the time period within which we are living in, pluralises. They are no altogether without conflict
+
+* What happens to the society and individual in the face of this:
+  - When individuals are able to pick and choose, how do they follow their faith. For e.g. I am Catholic but I believe in birth control
+  - Religions are aware of the fact that they are no longer a monopoly, and individuals are picking and choosing, and there is a voluntary aspect to it. Thus they become much more open
+  - We need to also pay attention to new and emerging forms of religiosity and spirituality that are occuring around us.
+  - Zygmunt Bauman has done work on what kind of religions that would thrive in contemporary Western Society
+  - Two forms of religions that would thrive are: consumer religions and forms of fundamentalism
+
+* Consumer religions are like religion a la carte.For example what could be called hyper-real religion, i.e. the use of popular culture as a source of inspitation for your religiosity.
+
+* Hyper-real Religion is a term coined by Adam Possamai. Examples include things like Jediism and Matrixism
+
+* Post-secularisation
+  - It hasn't played out as we thought it would
+  - Instead of the complete eradication of religion, we have seen things like pluralisation and certain religions doing really well.
+  - Religion has moved from the private sphere to the public sphere
+  - The idea of Post-secularisation has been put forward by Habermas
+  - Habermas put forward that if we are going to have a truly democratic society, then we need to recognise that religion hasn’t gone away, that we live in really religiously diverse societies.
+
+## Module 4: From the Concrete to the Elastic   
+
+### Topic 1: From the Concrete to the Elastic   
+### Topic 2: Changes in the Meaning of Risk Overtime
+### Topic 3: Different Ways of Understanding Risk
+### Topic 4: Risk and the Impack on the Individual
+### Topic 5: Different Views of Contemporary Society
+### Topic 6: Risk Society Thesis Applies to Religion
+### Topic 7: Risk Society Thesis Applies to Health
+### Topic 8: The Risk Society Finalised
+### Topic 9: How Do These Changes Impact on Sociology
+### Topic 10: The Self and Society
+
+
