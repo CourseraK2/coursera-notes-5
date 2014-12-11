@@ -455,17 +455,117 @@ whether class as a concept is
   - The idea of Post-secularisation has been put forward by Habermas
   - Habermas put forward that if we are going to have a truly democratic society, then we need to recognise that religion hasn’t gone away, that we live in really religiously diverse societies.
 
-## Module 4: From the Concrete to the Elastic   
+## Module 4: From the Concrete to the Elastic
 
-### Topic 1: From the Concrete to the Elastic   
+### Topic 1: From the Concrete to the Elastic
+* Durkheim: One of his main concerns was what is going to maintain social order in the face of all that social change.
+  - He looked at what held society together in traditional society, and what held society together through all the rapid changes
+  - Concept of “Mechanical Solidarity”: simply this idea of society is held together through sameness (non-diversity).  The collective is quite strong because there's the shared values and norms.
+  - But within modernity, there is “Organic Solidarity”: What holds us together is our interdependence on each other.
+
+* Threats to social order
+  - Rise of the individual over the collective, what Durkheim called “The Cult of the Individual”
+  - We can see it today, with all the naricissm that we can witness around us. Naricissism used to be considered a personality disorder, but it has been taken out of the DSM.
+  - But Durkheim also talked about investing in individuals, because in a sense as representations of their society, they are sacred.
+  - But they must be based in a morality
+
+* Roles don’t hold us as much as earlier. They still hold us to an extent (e.g. gender etc) but not as much
 ### Topic 2: Changes in the Meaning of Risk Overtime
+* Risk is one of the main characteristics of contemporary Western society
+* The concept of risk has changed dramatically
+  - In pre-modernity, risk was seen as external, it is because of fate, God’s will etc. They could do very little and had no responsibility in the face of it.
+  - With the onset of modernity, with a different approach to knowledge, which was much more scientific and rational approach that was meant to be for the social betterment of all, we started to understand that not all risk was external. Risk arose as unintended consequences of human intervention in the natural world and the things that we were doing.
+  - The types of risk we are surrounded with today: Chernobyl(invisible), Katrina (human intervention). They have become invisible, and are not bound by borders, time or place.
 ### Topic 3: Different Ways of Understanding Risk
-### Topic 4: Risk and the Impack on the Individual
+* Sociology, Anthropology, Economics, Psychology, Engineering etc that look and try and understand risk and how it impacts on us as individuals, and as a society as a collective.
+* Technoscientific approach:
+  - Engineering/Psychology
+  - Preexisting in nature
+  - What is our cognitive response to it
+  - Why are we so scared of it
+* Sociocultural approach
+  - Risk = Social Construction
+  - There is the idea that we can construct certain risks in the process of interacting with each other
+  - Cultural Symbolic Approach
+    - Mary Douglas has done some work on purity and danger. Her work deals primarily with the body and how we associate risks with the body, and how that can create and reinforce boundaries within a society.
+  - Governmentality Approach
+    - Used by scholars of criminology and sociology
+    - here, we're paying attention to how risks, and the construction of risks, and the way that they're being presented to society are sending out messages that are going to govern us, and govern our body. Make us surveil ourselves.
+  - Risk Society Approach
+    - Risks are based in reality to a degree, but also emphasise the social construction element
+
+* Common elements to all approaches:
+  - They all recognise that risk has become one of the central elements of contemporary society, that organises our society.  At the same time, it can be used as a sense of surveillance over our society.
+  - Risk has become on the central issues of contemporary Western society
+### Topic 4: Risk and the Impact on the Individual
+* Anthony Gidden’s work
+* Concept of ‘Insecurity’: Can imagine a continuum between an ‘Ontologically Insecure Individual’ and ‘Ontologically Secure Individual’
+* Ontologically Insecure: Sombody who is obsessed and exaggerates the risks that we are faced with
+* Ontologically Secure: An individual who feels much more bracketed from the kinds of risks we have talked about. They have created these adaptive reactions in face of this risk
+* Concept of trust
+* Ulrich Beck
+  - Individualisation: disembedding - we have been taken out of the roles that used to guide us. dienchantment - we are not fully trusting of our expert systems around us. rembedding - we have been rembedding into our economic forces
+  - 
 ### Topic 5: Different Views of Contemporary Society
+* Reflexive Modernism
+  - Comes from the work of Anthony Giddens and Ulrich Beck
+  - Idea of reflexivity: all the information that surrounds us. We are being sent messages, and we are in the constant process of negotiation. We cannot master it.
+
+* Liquid Modernity
+  - Sigmund Bauman states that we re in a period that could be considied “liquid” - things are more fluid, whether it is class, roles etc - “‘Liquid Modern’ is a society in which the conditions under which its members act change faster that it takes the ways of acting to consolidate into habits and routines…liquid modern society cannot keep its shape or stay on course for long”
+
+* More Risk = More Choice = More Responsibility
+
+
 ### Topic 6: Risk Society Thesis Applies to Religion
+* Can religion provide comfort to bracket out this uncertainity and insecurity
+* Sigmund Bauman talked about the two kinds of religion that would thrive in contemporary society: Consumer Religions and Forms of Fundamentalisms
+* Which form of religion is going to provide the best form ‘ontological security’
+* Media presents fundamentalism in a negative way: often presented through violent extermism, but that’s not we mean always. It doesn’t always have to be equated with violence, and in a sort of negative way.
+* Fundamentalism does provide this security
 ### Topic 7: Risk Society Thesis Applies to Health
+* We are bombarded with all this information about health risks
+* There are also opposing pieces of information: for e.g. debates around cellphone radiation, breast feeding, immunisation
+* We have the freedom to choose, but at the same time these freedoms equate to more responsibility
+* How risk and health interrelated:
+  - Research into childbirth
+  - High rates of intervention in child birth
+  - Is this medicalisation, or is this by choice?
+  - In interviews, a lot of women were fearful
+  - Actual risks are actually quite low compared to 17th century (when 1 in 100 women would pass away). Today in Australia it is 13 in 100000
+  - So why do women fear it?
 ### Topic 8: The Risk Society Finalised
+* Individualisation and the work of Beck
+  - Disembedding that has happened is important and it is an extremely positive thing to be freed from the traditional society
+  - But we still have parameters that guide our behavior.
+  - Disenchantment: with our expert systems, because we get all these contradictory messages from these so called experts
+  - Reembedding into economic forces
+* Summary of Risk Society
+  - There is an omnipresence of risk
+  - There is also this contestation of what is a risk, and there is competing information
+  - There is a changing nature of risk: they are democratic, we cannot confine them to a particular time and place
+  - There is an inversion of trust and risk, whereby at the same time that we are distrustful of our expert systems, we need them to make sure they are doing the right thing
+* Changing nature of risk
+  - We now live in a time period that is uninsurable, because of the kind of manufactured risks that we are create
+  - The pathway forward is to get involved, tap into this democratisation of information
 ### Topic 9: How Do These Changes Impact on Sociology
+* Theorists argue about whether we can use traditional sociological concepts like class, gender, ethnicity anymore in a rapidly changing world.
+* Sociologists like Beck say that we can’t. He actually labels these categories, zombie categories
+* Individualisation leads to these concepts move into the background, but does that mean that they are no longer relevant, perhaps we need to reconstruct them
+* The family
+  - movie: The Kids are Alright
+  - fluidity in the concept of family and family structures: same sex couples, people remarrying, single households
+* Class
+  - This is where the idea of zombie categories is at its most contentious: 
+  - “Society can no longer look in the mirror and see social classes. The mirror has been smashed and all we have left are the individualised fragments.” - Beck and Williams 2004
+  - Many people see this as problematic
+  - Class seems to be holding us pretty stronger, compared to gender, ethnicity etc.
+
 ### Topic 10: The Self and Society
+* Relationships
+  - When we think about relationships, we often don’t think about the social structure we are living within. It is purely emotional, individualistic.
+  - Sigmund Bauman: “Good lighting is the true blindness – one does not see what is all too visible, one does not note what is always there, things are noticed when they disappear or go bust, they must first fall out from the routinely given for the search after their essences to start and the questions about their origin, wherabouts use or value to be asked.”
+  - The society that we live impacts on our individual biography
+
 
 
